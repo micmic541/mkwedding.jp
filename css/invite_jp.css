@@ -2,7 +2,7 @@
 
 * {margin:0; padding:0; webkit-box-sizing:border-box;}
 
-body > div {
+div {
 	background-image:url(../img/invite_jp.png); 
 	background-position:center center; 
 	background-repeat:no-repeat; 
