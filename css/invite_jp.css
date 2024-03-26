@@ -4,6 +4,8 @@
 
 body > div {
 	background-image:url(../img/invite_jp.png); 
-	background-position:center cneter; 
+	background-position:center center; 
 	background-repeat:no-repeat; 
+	width:1650px;
+	height:1650px;
 }
